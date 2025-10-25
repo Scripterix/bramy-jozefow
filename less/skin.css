@@ -1,0 +1,326 @@
+body {
+  background: white !important;
+}
+.text-color-primary {
+  color: #fccb06 !important;
+}
+.bg-color-primary {
+  background-color: #fccb06;
+}
+.bg-color-secondary {
+  background-color: #b2c81e;
+}
+.bg-color-tertiary {
+  background-color: #38cef9;
+}
+.btn.btn-color-primary {
+  background-color: #fccb06;
+}
+.header-section ul li.active > a {
+  color: #fccb06;
+}
+.header-section.style4 ul li ul {
+  background: #fccb06;
+}
+.header-section ul li:hover > a,
+.header-section ul li.active > a {
+  color: #fccb06;
+}
+.header-section.style4 ul li.search-parent .search-box {
+  background: #fccb06;
+}
+.header-section.style4 ul li.search-parent .search-box .form-control {
+  background: #fccb06;
+}
+@media only screen and (max-width: 1000px) {
+  .header-section.style4 #menu ul {
+    background: #fccb06;
+  }
+}
+.header-section ul li .number {
+  background: #fccb06;
+}
+.header-section.style4 ul li.cart-parent .cart-box {
+  background: #fccb06;
+}
+.header-section ul li.mega-menu > ul > li ul li a:hover {
+  color: #fccb06;
+}
+.header-section ul li.search-parent a.m-link {
+  color: #fccb06;
+}
+.header-section ul li.cart-parent a.m-link {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style4 ul li:hover > a,
+.header-section.dark-dropdowns.style4 ul li.active > a {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style4 ul li.mega-menu > ul > li ul li a:hover {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style4 #menu ul li ul li:hover a span.sub-arrow,
+header-section.dark-dropdowns.style4 #menu ul li ul li.active a span.sub-arrow {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style2 ul li:hover > a,
+.header-section.dark-dropdowns.style2 ul li.active > a {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style2 ul li.mega-menu > ul > li ul li.active a {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style2 ul li.mega-menu > ul > li ul li a:hover {
+  color: #fccb06;
+}
+.btn-top-1 {
+  background-color: #fccb06;
+}
+.header-section.dark-dropdowns.style1 ul li:hover > a,
+.header-section.dark-dropdowns.style1 ul li.active > a {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style1 ul li.mega-menu > ul > li ul li a:hover {
+  color: #fccb06;
+}
+.header-section.dark-dropdowns.style1 ul li:hover > a,
+.header-section.dark-dropdowns.style1 ul li.active > a {
+  color: #fccb06;
+}
+.header-section.act-style-1 ul li.active > a {
+  background-color: #fccb06 !important;
+}
+.header-section.style3 #menu ul li.mega-menu li ul li:hover a,
+.header-section.style3 #menu ul li.mega-menu li ul li.active a {
+  color: #fccb06;
+}
+.header-section.style3 #menu ul li.mega-menu li ul li:hover a,
+.header-section.style3 #menu ul li.mega-menu li ul li.active a {
+  color: #fccb06;
+}
+.header-section.style3 #menu ul li ul li:hover > a,
+.header-section.style3 #menu ul li ul li.active > a {
+  color: #fccb06;
+}
+.header-section.style3 #menu ul li ul li:hover a span.sub-arrow,
+header-section.style3 #menu ul li ul li.active a span.sub-arrow {
+  color: #fccb06;
+}
+.header-section.style5.dark #menu ul li ul li:hover > a,
+.header-section.style5.dark #menu ul li ul li.active > a {
+  color: #fccb06;
+}
+.header-section ul li.cart-parent .cart-box span {
+  color: #fccb06;
+}
+.header-section ul li.cart-parent .cart-box span {
+  color: #fccb06;
+}
+.header-section ul li.cart-parent .cart-box .btn.btn-primary {
+  background: #fccb06 none repeat scroll 0 0 !important;
+}
+.section-primary {
+  background-color: #fccb06;
+}
+.text-primary {
+  color: #fccb06;
+}
+.btn.btn-prim {
+  background-color: #fccb06;
+}
+a.read-more {
+  color: #fccb06;
+}
+.cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.cbp-l-filters-buttonCenter .cbp-filter-counter {
+  background-color: #fccb06;
+}
+.cbp-l-filters-buttonCenter .cbp-filter-counter::after {
+  border-top: 4px solid #fccb06;
+}
+.tp-caption.btn-style-2.Agency-PlayBtn i {
+  color: #fccb06;
+}
+.footer-social-icons li a:hover,
+.footer-social-icons li a.active {
+  color: #fccb06;
+}
+.scrollup {
+  background: #fccb06 url(../images/scroll-top-arrow.png) no-repeat 15px 16px;
+}
+.btn.btn-border.prim {
+  color: #fccb06;
+  border-color: #fccb06;
+}
+.btn.btn-border:hover.prim {
+  background-color: #fccb06;
+  border-color: #fccb06;
+}
+#togglePlay.pause {
+  background: rgba(252, 203, 6, 0.94);
+}
+#togglePlay.play {
+  background: rgba(252, 203, 6, 0.94);
+}
+.slide-controls-2 .owl-theme .owl-controls .owl-page.active span {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.slide-controls-2 .owl-theme .owl-controls .owl-page span {
+  border: 1px solid #fccb06;
+}
+.footer-tags li a:hover,
+.footer-tags li a.active {
+  border: 1px solid #fccb06;
+  color: #fccb06;
+}
+.newsletter-submit-btn {
+  border: 1px solid #fccb06;
+  background-color: #fccb06;
+}
+.iconlist-2 .icon {
+  color: #fccb06;
+}
+.fo-newsletter-submit-1.gyellow {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.slide-controls-3 .owl-theme .owl-controls .owl-page.active span {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.pagenation-holder .breadcrumb li.current a {
+  color: #fccb06;
+}
+.pages-sidebar-links li a:hover,
+.pages-sidebar-links li a.active {
+  color: #fccb06;
+}
+.smart-forms .btn-primary {
+  background-color: #fccb06;
+}
+.iconlist li i {
+  color: #fccb06;
+}
+.parallax-overlay.primary {
+  background: rgba(252, 203, 6, 0.94);
+}
+ul.sitemap li a {
+  color: #fccb06;
+}
+.error-search-box .input_submit {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.tp-caption.sbut1 a {
+  background-color: #fccb06;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+  background-color: #fccb06;
+}
+.cbp-l-filters-button .cbp-filter-counter {
+  background-color: #fccb06;
+}
+.cbp-l-filters-button .cbp-filter-counter::after {
+  border-top: 4px solid #fccb06;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+  background-color: #fccb06;
+}
+.cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active {
+  background-color: #fccb06;
+  border-color: #fccb06;
+}
+.cbp-l-filters-alignRight .cbp-filter-counter {
+  background-color: #fccb06;
+}
+.cbp-l-filters-alignRight .cbp-filter-counter::after {
+  border-top: 4px solid #fccb06;
+}
+.cbp-l-grid-masonry-projects .cbp-l-caption-buttonLeft,
+.cbp-l-grid-masonry-projects .cbp-l-caption-buttonRight {
+  background-color: #fccb06;
+}
+.cbp-l-grid-mosaic .cbp-caption-activeWrap {
+  background-color: #fccb06;
+  background: rgba(252, 203, 6, 0.94);
+}
+.cbp-l-grid-mosaic-projects .cbp-caption-activeWrap {
+  background-color: #fccb06;
+  background: rgba(252, 203, 6, 0.94);
+}
+.cb-feature-box-1 .img-box .postdate-box {
+  background-color: #fccb06;
+}
+.cb-feature-box-1 .postinfo-box .title a:hover {
+  color: #fccb06;
+}
+.blog-pagenation li a:hover,
+.blog-pagenation li a.active {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.slider-btn-9 .owl-theme .owl-controls .owl-buttons .owl-prev {
+  background-color: #fccb06;
+}
+.slider-btn-9 .owl-theme .owl-controls .owl-buttons .owl-next:hover {
+  background-color: #fccb06;
+}
+.slider-btn-9 .owl-theme .owl-controls .owl-buttons .owl-next {
+  background-color: #fccb06;
+}
+.slider-btn-9 .owl-theme .owl-controls .owl-buttons .owl-prev:hover {
+  background-color: #fccb06;
+}
+.ce-title-line.align-left {
+  background-color: #fccb06;
+}
+.ce-title-line {
+  background-color: #fccb06;
+}
+.tabstyle-13 .responsive-tabs li a:hover,
+.tabstyle-13 .responsive-tabs li.active,
+.tabstyle-13 .responsive-tabs li.active a {
+  color: #fccb06;
+}
+.ce-price-table-1 .inner-box .price-circle .price {
+  color: #fccb06;
+}
+.ce-price-table-1 .inner-box .price-circle span {
+  color: #fccb06;
+}
+.smk_accordion .accordion_in.style6.act-light.acc_active > .acc_head {
+  color: #fccb06;
+}
+.sp-feature-box-3 .img-box .badge {
+  background-color: #fccb06;
+}
+.sp-sc-icons li a:hover,
+.sp-sc-icons li a.active {
+  border: 1px solid #fccb06;
+  color: #fccb06;
+}
+.sp-sb-links li a:hover,
+.sp-sb-links li a.active {
+  color: #fccb06;
+}
+.sp-feature-box-4 .submit-btn:hover {
+  background-color: #fccb06;
+  border: 1px solid #fccb06;
+}
+.stars span i {
+  color: #fccb06;
+}
+.tp-caption.fe-white-box-5 {
+  border: 3px solid #fccb06;
+}
+.tp-caption.fe-white-box-5 .inner-box {
+  background-color: #fccb06;
+}
+.sp-feature-box-2 {
+  background-color: #fccb06;
+}
